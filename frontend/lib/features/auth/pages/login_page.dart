@@ -85,7 +85,7 @@ class _LoginPageState extends State<LoginPage> {
                     if (value == null ||
                         value.trim().isEmpty ||
                         !value.trim().contains("@")) {
-                      return "Email field is invalid!";
+                      return "Email field is invalid";
                     }
                     return null;
                   },
