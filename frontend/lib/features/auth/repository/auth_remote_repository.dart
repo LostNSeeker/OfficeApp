@@ -33,6 +33,8 @@ class AuthRemoteRepository {
       if (res.statusCode != 201) {
         throw jsonDecode(res.body)['error'];
       }
+      print('Body is: ${res.body}');
+      print(res.statusCode);
 
       return UserModel.fromJson(res.body);
     } catch (e) {
@@ -47,7 +49,6 @@ class AuthRemoteRepository {
   }) async {
     try {
       final res = await http.post(
-        
         Uri.parse(
           '${Constants.backendUri}/auth/login',
         ),

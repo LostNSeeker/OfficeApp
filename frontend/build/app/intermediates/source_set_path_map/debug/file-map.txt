@@ -33,13 +33,13 @@ com.example.frontend.app-fragment-1.7.1-31 C:\Users\Lenovo\.gradle\caches\transf
 com.example.frontend.app-jetified-datastore-release-32 C:\Users\Lenovo\.gradle\caches\transforms-3\e3611af684c8af9ba655b32249084f4e\transformed\jetified-datastore-release\res
 com.example.frontend.app-jetified-tracing-1.2.0-33 C:\Users\Lenovo\.gradle\caches\transforms-3\e896b9ac412a8814559a776dc7b5a420\transformed\jetified-tracing-1.2.0\res
 com.example.frontend.app-jetified-savedstate-ktx-1.2.1-34 C:\Users\Lenovo\.gradle\caches\transforms-3\eb30b97cf0c123a3aa78bfba9082ceea\transformed\jetified-savedstate-ktx-1.2.1\res
-com.example.frontend.app-debug-35 D:\clone projects\task-manager\frontend\android\app\src\debug\res
-com.example.frontend.app-main-36 D:\clone projects\task-manager\frontend\android\app\src\main\res
-com.example.frontend.app-pngs-37 D:\clone projects\task-manager\frontend\build\app\generated\res\pngs\debug
-com.example.frontend.app-resValues-38 D:\clone projects\task-manager\frontend\build\app\generated\res\resValues\debug
-com.example.frontend.app-packageDebugResources-39 D:\clone projects\task-manager\frontend\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.frontend.app-packageDebugResources-40 D:\clone projects\task-manager\frontend\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.frontend.app-merged_res-41 D:\clone projects\task-manager\frontend\build\app\intermediates\merged_res\debug
-com.example.frontend.app-packaged_res-42 D:\clone projects\task-manager\frontend\build\connectivity_plus\intermediates\packaged_res\debug
-com.example.frontend.app-packaged_res-43 D:\clone projects\task-manager\frontend\build\shared_preferences_android\intermediates\packaged_res\debug
-com.example.frontend.app-packaged_res-44 D:\clone projects\task-manager\frontend\build\sqflite_android\intermediates\packaged_res\debug
+com.example.frontend.app-debug-35 C:\Users\Lenovo\Desktop\OfficeApp\frontend\android\app\src\debug\res
+com.example.frontend.app-main-36 C:\Users\Lenovo\Desktop\OfficeApp\frontend\android\app\src\main\res
+com.example.frontend.app-pngs-37 C:\Users\Lenovo\Desktop\OfficeApp\frontend\build\app\generated\res\pngs\debug
+com.example.frontend.app-resValues-38 C:\Users\Lenovo\Desktop\OfficeApp\frontend\build\app\generated\res\resValues\debug
+com.example.frontend.app-packageDebugResources-39 C:\Users\Lenovo\Desktop\OfficeApp\frontend\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.frontend.app-packageDebugResources-40 C:\Users\Lenovo\Desktop\OfficeApp\frontend\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.frontend.app-merged_res-41 C:\Users\Lenovo\Desktop\OfficeApp\frontend\build\app\intermediates\merged_res\debug
+com.example.frontend.app-packaged_res-42 C:\Users\Lenovo\Desktop\OfficeApp\frontend\build\connectivity_plus\intermediates\packaged_res\debug
+com.example.frontend.app-packaged_res-43 C:\Users\Lenovo\Desktop\OfficeApp\frontend\build\shared_preferences_android\intermediates\packaged_res\debug
+com.example.frontend.app-packaged_res-44 C:\Users\Lenovo\Desktop\OfficeApp\frontend\build\sqflite_android\intermediates\packaged_res\debug
